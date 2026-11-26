@@ -1,4 +1,4 @@
-# Library Book Management REST API (Set A)
+# Library Book Management REST API 
 
 ## Setup Instructions
 1. Clone the repository and open the project folder.
